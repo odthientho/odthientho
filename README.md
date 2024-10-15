@@ -1,6 +1,6 @@
-# Who Am I?
+# Who is Arthur?
 
-📚 Bachelor of Computer Science
+📚 Bachelor of Computer Science & Graduate of Per Scholas and Georgia Tech Web Development Bootcamps
 
 👨🏻‍💻 **Software Developer** - Focusing on Java, JavaScript, and modern frameworks.
 
