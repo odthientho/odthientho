@@ -1,11 +1,11 @@
 # Who is Arthur?
 
-📚 Bachelor of Computer Science 
+📚 **Bachelor of Computer Science **
 
-🏆 Graduate of Per Scholas and Georgia Tech Web Development Bootcamps
+🏆 Graduate of **Per Scholas** and **Georgia Tech** Web Development Bootcamps
 
 👨🏻‍💻 **Software Developer** - Focusing on Java, JavaScript, and modern frameworks.
 
-📍 Lawrenceville, Georgia
+📍 **Atlanta area** of Georgia (open to relocated)
 
 ❤️ I am passionate about creating **impactful applications** that serve **real-world** needs.
