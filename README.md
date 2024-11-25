@@ -14,6 +14,15 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a focu
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odthientho&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odthientho&layout=compact&theme=radical)](https://github.com/odthientho)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=odthientho&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=radical)
+
+---
+
+## 🏅 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/odthientho)
+
+
+
